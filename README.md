@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Silla Mariya Roy</h1>
 <h3 align="center">🎓 Computer Engineering Graduate | 💡 Passionate about Data Science, AI & Quantum Tech | 🚀 Turning Data into Decisions, Code into Impact</h3>
 
-- 🔭 I’m currently working on [Prediction-Maintenance-on-Commercial-Aircraft-Engines](https://github.com/Silla03/Prediction-Maintenance-on-Commercial-Aircraft-Engines)
+- 🔭  I have completed a project on [Prediction-Maintenance-on-Commercial-Aircraft-Engines](https://github.com/Silla03/Prediction-Maintenance-on-Commercial-Aircraft-Engines)
+- 🔭  I am currently working on an Excel-based data analysis project.
 
 - 🌱 I’m currently learning **Currently Diving Deep into SQL & Excel,Passionate About Real-World Data Projects & Collaboration**
 
